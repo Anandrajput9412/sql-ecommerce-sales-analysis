@@ -1,4 +1,3 @@
-}
 # SQL E-commerce Sales Analysis Project
 
 ## Overview
